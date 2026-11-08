@@ -1,0 +1,10 @@
+# Core libraries for running the notebooks
+jupyter
+numpy
+pandas
+matplotlib
+sympy
+nbstripout
+
+# Optional: interactive sliders inside notebooks
+ipywidgets
